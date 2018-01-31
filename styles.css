@@ -1,1 +1,28 @@
 /* Styles for the Advanced Markup assignment. */
+
+nav ul li {
+  display: inline;
+}
+
+a.active {
+  font-weight: bold;
+}
+
+#sidebar {
+  width: 250px;
+  float: right;
+  background: lightgray;
+  margin: 20px;
+  padding: 10px;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+
+td {
+  text-align: center;
+}
