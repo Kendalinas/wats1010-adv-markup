@@ -22,7 +22,39 @@ td {
   border: 1px solid black;
   border-collapse: collapse;
 }
+.bio-photo {
+      float: left;
+      margin: 0px;
+      padding 10px;
+}
+body{
+  Font-family: serif;
+    font-size: 16px;
+    font-style: normal;
+    font-variant: normal;
+    font-weight: 500;
+    line-height: 30px;
+}
 
 td {
   text-align: center;
+}
+.poem li {
+  font-size: 30px;
+  Font-style: italic;
+  padding-right: 0px;
+  text-align: center;
+}
+#content {
+  text-align: left
+}
+#selected_works {
+  text-align: center
+}
+ul.top-nav{
+  text-align: center;
+}
+body {
+  background-image: url(paper.jpg);
+  Background-repeat: repeat: initial;
 }
